@@ -1,0 +1,11 @@
+E:\Visual studio project\btbuoi4\btbuoi4\bin\Debug\btbuoi4.exe.config
+E:\Visual studio project\btbuoi4\btbuoi4\bin\Debug\btbuoi4.exe
+E:\Visual studio project\btbuoi4\btbuoi4\bin\Debug\btbuoi4.pdb
+E:\Visual studio project\btbuoi4\btbuoi4\obj\Debug\btbuoi4.csproj.AssemblyReference.cache
+E:\Visual studio project\btbuoi4\btbuoi4\obj\Debug\btbuoi4.Form1.resources
+E:\Visual studio project\btbuoi4\btbuoi4\obj\Debug\btbuoi4.Properties.Resources.resources
+E:\Visual studio project\btbuoi4\btbuoi4\obj\Debug\btbuoi4.SinhVien.resources
+E:\Visual studio project\btbuoi4\btbuoi4\obj\Debug\btbuoi4.csproj.GenerateResource.cache
+E:\Visual studio project\btbuoi4\btbuoi4\obj\Debug\btbuoi4.csproj.CoreCompileInputs.cache
+E:\Visual studio project\btbuoi4\btbuoi4\obj\Debug\btbuoi4.exe
+E:\Visual studio project\btbuoi4\btbuoi4\obj\Debug\btbuoi4.pdb
